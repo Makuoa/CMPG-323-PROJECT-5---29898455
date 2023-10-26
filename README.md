@@ -1,4 +1,6 @@
 # CMPG-323-PROJECT-5---29898455
+# Let's explain how stakeholders can use POWER BI reports.
+
 # Getting Started
 Before you begin using the EcoPower Logistics report, make sure you have the necessary access credentials and permissions. Here's how you can get started:
 
