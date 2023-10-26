@@ -73,4 +73,9 @@ Order Number: Filter the report based on order numbers for in-depth order analys
 - > https://www.youtube.com/watch?v=AGrl-H87pRU
 - > Power BI data sources data mapping, how to approach (no date) Reddit. Available at: https://www.reddit.com/r/PowerBI/comments/15xyvi1/power_bi_data_sources_data_mapping_how_to_approach/?rdt=42030 (Accessed: 26 October 2023).
 - > Mobeen, Q. (2017) Create reports using a power BI Gateway, Kloud Blog. Available at: https://blog.kloud.com.au/2017/07/27/create-reports-using-a-power-bi-gateway/ (Accessed: 25 October 2023).
-  > Mobeen, Q. (2017) Create reports using a power BI Gateway, Kloud Blog. Available at: https://blog.kloud.com.au/2017/07/27/create-reports-using-a-power-bi-gateway/ (Accessed: 25 October 2023). 
+  > Mobeen, Q. (2017) Create reports using a power BI Gateway, Kloud Blog. Available at: https://blog.kloud.com.au/2017/07/27/create-reports-using-a-power-bi-gateway/ (Accessed: 25 October 2023).
+- > How to clean irrelevant data in power BI &amp; Ways to transform the data? (no date) Dynamics Square. Available at: https://www.dynamicssquare.com/blog/how-to-clean-irrelevant-data-in-power-bi-and-ways-to-transform-the-data/ (Accessed: 24 October 2023).
+- > https://www.coursera.org/projects/prepare-clean-transform-and-load-data-using-powerbi
+- > How to add a calculated column in power Bi (2023) Zebra BI. Available at: https://zebrabi.com/guide/how-to-add-a-calculated-column-in-power-bi/ (Accessed: 23 October 2023).
+- > aphilip94 (no date) Key influencers visualizations tutorial - power bi, Key influencers visualizations tutorial - Power BI | Microsoft Learn. Available at: https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers?tabs=powerbi-desktop (Accessed: 22 October 2023).
+- > 
