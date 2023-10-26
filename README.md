@@ -53,6 +53,9 @@ We've incorporated filters to enhance your data exploration experience. These fi
 
 Product Category: Filter the report based on product categories to view insights related to specific product types.
 
+# REFERENCES
+
+
 Customer: Filter the report based on a specific customer to gain insights into their behavior and preferences.
 
 Order Number: Filter the report based on order numbers for in-depth order analysis.
