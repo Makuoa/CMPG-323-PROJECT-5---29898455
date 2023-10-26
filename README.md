@@ -63,4 +63,3 @@ Order Number: Filter the report based on order numbers for in-depth order analys
 - -> Team, D. (2023) Power BI desktop download and installation guide I datascientest, DataScientest. Available at: https://datascientest.com/en/power-bi-desktop-download-and-installation-guide# (Accessed: 22 October 2023).
 - > https://www.youtube.com/watch?v=Z2t7l8b1uWU
   > Davidiseminger (2023) Work with report view in power BI Desktop - Power bi, Power BI | Microsoft Learn. Available at: https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-report-view (Accessed: 22 October 2023).
-  > 
