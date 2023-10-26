@@ -78,4 +78,6 @@ Order Number: Filter the report based on order numbers for in-depth order analys
 - > https://www.coursera.org/projects/prepare-clean-transform-and-load-data-using-powerbi
 - > How to add a calculated column in power Bi (2023) Zebra BI. Available at: https://zebrabi.com/guide/how-to-add-a-calculated-column-in-power-bi/ (Accessed: 23 October 2023).
 - > aphilip94 (no date) Key influencers visualizations tutorial - power bi, Key influencers visualizations tutorial - Power BI | Microsoft Learn. Available at: https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-influencers?tabs=powerbi-desktop (Accessed: 22 October 2023).
-- > 
+- > https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualization-types-for-reports-and-q-and-a
+- > maggiesMSFT (no date) Monitor report usage metrics - power bi, Power BI | Microsoft Learn. Available at: https://learn.microsoft.com/en-us/power-bi/collaborate-share/service-usage-metrics (Accessed: 24 October 2023).
+  > 
