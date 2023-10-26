@@ -65,4 +65,7 @@ Order Number: Filter the report based on order numbers for in-depth order analys
 - > Davidiseminger (2023) Work with report view in power BI Desktop - Power bi, Power BI | Microsoft Learn. Available at: https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-report-view (Accessed: 22 October 2023).
 - > How to connect data sources in power Bi? | Power Bi Tutorial for beginners | Power Bi | Simplilearn (2022) YouTube. Available at: https://www.youtube.com/watch?v=ZDuQvyZ8stM (Accessed: 25 October 2023).
 - > Iterinsights (2023) How to change data sources for existing power BI Reports, Iteration Insights. Available at: https://iterationinsights.com/article/change-data-source-for-existing-power-bi-report/ (Accessed: 25 October 2023).
+- > Jacob, J. (2023) How to connect various project data sources to power Bi, Project Control Academy. Available at: https://www.projectcontrolacademy.com/power-bi-data-connection/ (Accessed: 22 October 2023).
+- > Rad, R. (2022) Live connection; when Power Bi Comes hybrid, RADACAD. Available at: https://radacad.com/live-connection-when-power-bi-comes-hybrid (Accessed: 24 October 2023).
+- > What is power&nbsp;bi? (no date) What is Power BI? Definition and Overview | Microsoft Power BI. Available at: https://powerbi.microsoft.com/en-za/what-is-power-bi/ (Accessed: 26 October 2023).
 - > 
