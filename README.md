@@ -60,6 +60,9 @@ Customer: Filter the report based on a specific customer to gain insights into t
 Order Number: Filter the report based on order numbers for in-depth order analysis.
 
 # References
-- -> Team, D. (2023) Power BI desktop download and installation guide I datascientest, DataScientest. Available at: https://datascientest.com/en/power-bi-desktop-download-and-installation-guide# (Accessed: 22 October 2023).
-- -> https://www.youtube.com/watch?v=Z2t7l8b1uWU
+- > Team, D. (2023) Power BI desktop download and installation guide I datascientest, DataScientest. Available at: https://datascientest.com/en/power-bi-desktop-download-and-installation-guide# (Accessed: 22 October 2023).
+- > https://www.youtube.com/watch?v=Z2t7l8b1uWU
 - > Davidiseminger (2023) Work with report view in power BI Desktop - Power bi, Power BI | Microsoft Learn. Available at: https://learn.microsoft.com/en-us/power-bi/create-reports/desktop-report-view (Accessed: 22 October 2023).
+- > How to connect data sources in power Bi? | Power Bi Tutorial for beginners | Power Bi | Simplilearn (2022) YouTube. Available at: https://www.youtube.com/watch?v=ZDuQvyZ8stM (Accessed: 25 October 2023).
+- > Iterinsights (2023) How to change data sources for existing power BI Reports, Iteration Insights. Available at: https://iterationinsights.com/article/change-data-source-for-existing-power-bi-report/ (Accessed: 25 October 2023).
+- > 
